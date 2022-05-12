@@ -1,4 +1,4 @@
-# BemChain
+# BemChain ![bcnlogo](https://user-images.githubusercontent.com/102432160/168091169-8ed64b48-73c2-46b4-9436-e8362c6a785a.jpg)
 ## Company vision and commitment
 **BEM foundation's** greatest asset is its investors and its experts in Blockchain and 
 Network Marketing.
